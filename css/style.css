@@ -756,10 +756,11 @@ a:hover {
 .counter-box {
   color: #fff;
   text-align: center;
+  margin-top: 10%;
 }
 
 .counter-ico {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .counter-ico .ico-circle {
